@@ -4,8 +4,8 @@
 支持简单命令:
 
 - $help
-- $javadoc#<Class Simple Name>
-- $linuxman#<cmd>
+- $javadoc#&lt;Class Simple Name&gt;
+- $linuxman#&lt;cmd&gt;
 
 支持将普通话语音转换为文字
 
